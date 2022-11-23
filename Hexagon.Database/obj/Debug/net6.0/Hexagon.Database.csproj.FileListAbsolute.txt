@@ -1,0 +1,12 @@
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\bin\Debug\net6.0\Hexagon.Database.deps.json
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\bin\Debug\net6.0\Hexagon.Database.dll
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\bin\Debug\net6.0\Hexagon.Database.pdb
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.csproj.AssemblyReference.cache
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.AssemblyInfoInputs.cache
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.AssemblyInfo.cs
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.csproj.CoreCompileInputs.cache
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.dll
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\refint\Hexagon.Database.dll
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\Hexagon.Database.pdb
+C:\Users\hecti\RiderProjects\minimal-hexagon-field-manager-api\Hexagon.Database\obj\Debug\net6.0\ref\Hexagon.Database.dll
